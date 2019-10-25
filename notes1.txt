@@ -1,0 +1,49 @@
+Web 1.0:
+- Avant il y avait le web 0.0, création du web en 72 avec transfère de paquets ARPANET
+- Premières versions du web: static, en html dure peut de dynamique php à l'époque, aucune interaction possible avec les utilisateurs
+- Les développeurs mettaient le contenu les lecteur pouvaient lire le conteu sans interaction
+- Editer dans les premières versions d'html, XML, php et java avec le protocole HTTP
+- Notion de "web traditionnel", orienté produit, premiers site e commerce
+- On accède directement au site via l'url, pas de moteur de recherche au début
+
+Web 2.0:
+- défini en 2005 par Tim O'Reilly
+- volonté de rendre les individus acteur le 'environnement web et de casser la hiérarchie
+- Web 2.0: web en temps réeel, la maitrise du temps, du moment ou l'internaute reçoit l'information n'est plus possible
+- L'internaute peut aussi preoduite du contenu et pas seulement le consulté
+- On parle plus de plateforme web que de site web
+- Favorise l'intelligence collective (ex: wikipédia)
+- Les services web (ex: office 365 online) et adaptable en fonction de l'utilisation (extensions, widgets ...)
+
+Web 3.0:
+- Web dans lequel nous sommes actuellement
+- Basé sur l'orientation en contexte
+- De nouveaux langauges et nouvelles technologies pour la mise en oeuvre technique
+- L'internet mobile est plus prise en compte
+
+Web 4.0:
+- Notion de vie privée prend de l'importance
+- Analyse des comportements pour ne présenter que les données sucpetibles de nous intéresser
+- Ciblage précis de qui reçoit quel informations ou et quand
+- Techniquement: ouverture sur un language universelle
+
+=======
+Web 5.0:
+ à nous d'imaginer le web du futur
+
+
+En général:
+- Au delà de l'aspect évolution technique, c'est une évolution dans l'approche de la coneption du web
+- D'abord juste en consultation de ce qu'à écrit l'auteur on a ensuite intégrer l'interactivité
+  puis la notion de service web
+- Il ne faut pas confondre interactivité et dynamisme: l'interactivité permet à l'internaute de publier du contenuet d'intéragir avec l'auteur des pages web,
+  le dynamisme permet d'en changer le contenu via un système de gestion de contenu (CMS) sans toucher directement au code HTML
+- Les versions du web ne sont pas définies à l'avance comme c'est le cas pour un logiciel: celui-ci évolue en fonction des développeur, des technos,
+  des utilisateurs... Un numéro de version du web n'est défini qu'après observation des évolution du web et de l'orientation que celui-ci prend
+  au cours du temps
+
+Rdv téléphonique avec le prof:
+- Parties techniques et conception
+- Web 5.0 comment le vois à l’avenir
+- Parler des frameworks vis à vis des périodes du web ??
+- Parler de l’internet des objets ?
