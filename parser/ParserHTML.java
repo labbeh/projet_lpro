@@ -25,7 +25,12 @@ public class ParserHTML {
 		doc.title(src.title());
 		Element mainArea = doc.getElementsByTag("main").first();
 		Element mainSrc  = src.getElementsByTag("main").first();
-
+		
+		if(mainSrc == null){
+			System.out.println("ERREUR: votre fichier source ne contient pas de <main></main>");
+			System.exit(1);
+		}
+		
 		mainArea.prepend(mainSrc.html());
 
 		// sauvegarde dans le fichier
