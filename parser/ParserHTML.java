@@ -6,7 +6,7 @@ import java.io.*;
 * l'API Jsoup
 * Le but étant de compléter la balise main à partir d'un code
 * d'une autre page
-* @author labbeh
+* @author hugo labbé
 */
 public class ParserHTML {
 	/**
